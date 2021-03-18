@@ -6,8 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="10-I-fib" />
+        <module name="39-majority-element" />
+        <module name="53-II-missing-number" />
         <module name="18-delete-node" />
+        <module name="58-II-reverse-left-words" />
+        <module name="03-find-repeat-number" />
+        <module name="27-mirror-tree" />
+        <module name="55-I-max-depth" />
+        <module name="06-reverse-print" />
         <module name="50-first-uniq-char" />
+        <module name="40-get-least-numbers" />
       </profile>
     </annotationProcessing>
   </component>

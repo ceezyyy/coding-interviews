@@ -11,6 +11,15 @@
     <modules>
         <module>18-delete-node</module>
         <module>50-first-uniq-char</module>
+        <module>58-II-reverse-left-words</module>
+        <module>03-find-repeat-number</module>
+        <module>40-get-least-numbers</module>
+        <module>27-mirror-tree</module>
+        <module>53-II-missing-number</module>
+        <module>10-I-fib</module>
+        <module>39-majority-element</module>
+        <module>55-I-max-depth</module>
+        <module>06-reverse-print</module>
     </modules>
 
     <properties>
