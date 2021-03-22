@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>53-II-missing-number</artifactId>
+    <artifactId>56-II-single-number</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

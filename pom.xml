@@ -15,11 +15,28 @@
         <module>03-find-repeat-number</module>
         <module>40-get-least-numbers</module>
         <module>27-mirror-tree</module>
-        <module>53-II-missing-number</module>
         <module>10-I-fib</module>
         <module>39-majority-element</module>
         <module>55-I-max-depth</module>
         <module>06-reverse-print</module>
+        <module>11-min-array</module>
+        <module>24-reverse-list</module>
+        <module>22-get-kth-from-end</module>
+        <module>52-get-intersection-node</module>
+        <module>17-print-numbers</module>
+        <module>21-exchange</module>
+        <module>25-merge-two-lists</module>
+        <module>04-find-number-in-2D-array</module>
+        <module>05-replace-space</module>
+        <module>30-min-stack</module>
+        <module>10-II-num-ways</module>
+        <module>42-max-sub-array</module>
+        <module>63-max-profit</module>
+        <module>56-II-single-number</module>
+        <module>54-kth-largest</module>
+        <module>09-queue-w-2-stacks</module>
+        <module>53-II-search-in-sorted-array</module>
+        <module>53-I-search-in-sorted-array</module>
     </modules>
 
     <properties>
